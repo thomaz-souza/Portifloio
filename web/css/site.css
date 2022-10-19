@@ -82,17 +82,32 @@ a.desc:after {
 .nav > li > form > button.logout:focus {
     outline: none;
 }
+
+body{
+   
+}
  
 
 .myPhoto{
     border-radius: 100%;
     margin: auto;
-    width:256px;
-    height:256px;    
+    width:265px;
+    height:265px;    
 }
 
-.profile{
-    width: 290px;
-    height: 420px;
+.row{
+    padding: 5px;
+}
+
+.apresentation{
+    text-align: center;
+    font-family:courier;
+}
+
+.jobs{
+    margin: auto;
+    width:  350px;
+    height: 280px;
+    background-color: #828b94;
 }
 
